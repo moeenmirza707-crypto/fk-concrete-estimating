@@ -1,0 +1,9 @@
+<svg width="400" height="100" viewBox="0 0 400 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="15" width="70" height="70" rx="16" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+  <rect x="18" y="23" width="54" height="54" rx="10" fill="#EA580C"/>
+  <text x="25" y="62" font-family="system-ui, sans-serif" font-size="34" font-weight="900" fill="#FFFFFF">FK</text>
+  
+  <text x="96" y="50" font-family="system-ui, sans-serif" font-size="26" font-weight="800" fill="#0F172A">FK Concrete</text>
+  <text x="96" y="74" font-family="monospace" font-size="12" font-weight="700" fill="#64748B" letter-spacing="1.5">ESTIMATING SERVICES</text>
+</svg>
+
